@@ -1,9 +1,9 @@
-##header
+
 <div align="center">
   <img src="live.gif" alt="Header" width="100%"/>
 </div>
 
-##links
+
 <div align="center">
   <img src="header.gif" alt="Header" width="100%"/>
 </div>
@@ -36,7 +36,7 @@ My approach to development centers around user-centric design, writing efficient
 
 When I'm not coding, you'll find me exploring the latest tech trends, brainstorming new project ideas, or connecting with fellow developers to exchange ideas and experiences.
 
-##skills
+
 <br/>
 <br/>
 
