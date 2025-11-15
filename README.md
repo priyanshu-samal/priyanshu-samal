@@ -24,7 +24,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+<h2 align="center">📎 About Me</h2>
 
 I'm **Priyanshu**, a passionate Software Developer who loves building things and sharing them with the world.
 
