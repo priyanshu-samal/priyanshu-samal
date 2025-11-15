@@ -1,9 +1,9 @@
-//header
+##header
 <div align="center">
   <img src="live.gif" alt="Header" width="100%"/>
 </div>
 
-//links
+##links
 <div align="center">
   <img src="header.gif" alt="Header" width="100%"/>
 </div>
@@ -24,29 +24,36 @@
 
 <br/>
 
-## 🚀 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table>
 <tr>
-<td width="50%">
-  <img src="adhd.gif" alt="About Me Animation" width="100%"/>
-</td>
-<td width="50%">
+<td width="50%" valign="top">
   
-Hey there! I'm a **Software Developer** who loves turning ideas into reality through code. I'm passionate about building innovative solutions and sharing them with the world.
+<br/>
+
+Hey there! I'm **Priyanshu**, a passionate **Software Developer** who loves building things and sharing them with the world.
 
 🔨 **What I Do:**
 - Build full-stack applications that solve real problems
-- Create engaging user experiences with modern technologies
-- Share my knowledge and projects with the developer community
+- Create engaging user experiences with modern tech
+- Share my projects and knowledge with the community
 
 💡 **What Drives Me:**
-- Continuous learning and exploring new tech
-- Writing clean, efficient, and scalable code
+- Turning ideas into reality through code
+- Continuous learning and exploring cutting-edge technologies
 - Contributing to open-source and helping others grow
 
-When I'm not coding, you'll find me exploring the latest tech trends, brainstorming new project ideas, or connecting with fellow developers!
+🎯 **My Approach:**
+- Write clean, efficient, and scalable code
+- Focus on user-centric design and functionality
+- Collaborate and learn from the developer community
 
+When I'm not coding, you'll find me exploring new tech trends, brainstorming project ideas, or connecting with fellow developers!
+
+</td>
+<td width="50%">
+  <img src="about-me.gif" alt="Coding Animation" width="100%"/>
 </td>
 </tr>
 </table>
