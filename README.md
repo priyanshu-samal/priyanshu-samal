@@ -13,7 +13,7 @@
     <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Portfolio" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/priyanshusamal" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshusamal-/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
