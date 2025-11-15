@@ -26,10 +26,11 @@
 
 <h2 align="center">About me</h2>
 
-<table style="border: none;">
-<tr>
-<td width="55%" valign="top" style="border: none;">
-  
+<div align="center">
+  <table cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td width="55%" valign="top">
+        
 <br/>
 
 Hey there! I'm Priyanshu, a passionate Software Developer who loves building things and sharing them with the world.
@@ -42,9 +43,10 @@ My approach to development centers around user-centric design, writing efficient
 
 When I'm not coding, you'll find me exploring the latest tech trends, brainstorming new project ideas, or connecting with fellow developers to exchange ideas and experiences.
 
-</td>
-<td width="45%" align="center" style="border: none;">
-  <img src="about-me.gif" alt="Coding" style="border: 3px solid #0077B5; border-radius: 10px; padding: 5px; background-color: #0077B5;" width="90%"/>
-</td>
-</tr>
-</table>
+      </td>
+      <td width="45%" align="center">
+        <img src="adhd.gif" alt="Coding" style="border: 3px solid #0077B5; border-radius: 10px; padding: 5px; background-color: #0077B5;" width="90%"/>
+      </td>
+    </tr>
+  </table>
+</div>
