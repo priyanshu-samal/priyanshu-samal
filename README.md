@@ -39,6 +39,31 @@ When I'm not coding, you'll find me exploring the latest tech trends, brainstorm
 ##skills
 <br/>
 
+<br/>
+
+<h2 align="center">🪼 Beyond Code</h2>
+
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="55%" valign="top">
+      
+<br/>
+
+When I'm not coding, I'm building in public and sharing my journey with the developer community.
+
+I write posts about tech, share insights from my projects, and help fellow developers grow. I love connecting with clients, understanding their challenges, and building solutions that make a real impact.
+
+I also write blogs, share tips, and document my learning process. Building an audience and helping others on their coding journey is something I'm truly passionate about.
+
+Want to see what I'm up to? Check out my thoughts, projects, and daily updates on <a href="https://x.com/PriyanshuS92042">X</a> - where I share the real, unfiltered journey of building cool stuff!
+
+    </td>
+    <td width="45%" align="center">
+      <img src="think.gif" alt="Thinking" width="90%"/>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
