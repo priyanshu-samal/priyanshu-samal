@@ -48,7 +48,7 @@ When I'm not coding, you'll find me exploring the latest tech trends, brainstorm
 
 <br/>
 
-<h2 align="center">🌐 Beyond Code</h2>
+<h2 align="center">🪼 Beyond Code</h2>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
@@ -61,8 +61,5 @@ I also write blogs, share tips, and document my learning process. Building an au
 
 Want to see what I'm up to? Check out my thoughts, projects, and daily updates on [**X**](https://x.com/PriyanshuS92042) - where I share the real, unfiltered journey of building cool stuff!
 
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="think.gif" alt="Thinking" width="90%"/>
   </div>
 </div>
