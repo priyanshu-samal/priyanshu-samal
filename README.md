@@ -42,5 +42,13 @@ When I'm not coding, you'll find me exploring the latest tech trends, brainstorm
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,git,aws,firebase,tailwind" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,c,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,git,aws,firebase,tailwind,supabase,rust,kubernetes,solana,tensorflow,pytorch,vercel,vite,prisma,graphql,redis,elasticsearch,nginx,sass" />
+  
+  <br/><br/>
+  
+  ![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=D97757)
+  ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+  ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
 </div>
