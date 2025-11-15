@@ -10,14 +10,14 @@
 
 <div align="center">
   <a href="https://www.priyanshu.tech/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" height="35" width="35"/>
+    <img src="https://img.icons8.com/color/48/domain--v1.png" alt="Portfolio" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/priyanshusamal" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="35" width="35"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/PriyanshuS92042" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" height="35" width="35"/>
+    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="X" height="40" width="40"/>
   </a>
 </div>
