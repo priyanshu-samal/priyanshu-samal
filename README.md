@@ -24,36 +24,27 @@
 
 <br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About me</h2>
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
   
 <br/>
 
-Hey there! I'm **Priyanshu**, a passionate **Software Developer** who loves building things and sharing them with the world.
+Hey there! I'm Priyanshu, a passionate Software Developer who loves building things and sharing them with the world.
 
-🔨 **What I Do:**
-- Build full-stack applications that solve real problems
-- Create engaging user experiences with modern tech
-- Share my projects and knowledge with the community
+I specialize in creating full-stack applications that solve real problems. My focus is on delivering engaging user experiences using modern technologies while maintaining clean and scalable code.
 
-💡 **What Drives Me:**
-- Turning ideas into reality through code
-- Continuous learning and exploring cutting-edge technologies
-- Contributing to open-source and helping others grow
+What drives me is the ability to turn ideas into reality through code. I'm constantly exploring cutting-edge technologies and challenging myself with new projects. I believe in the power of the developer community and actively contribute to open-source projects.
 
-🎯 **My Approach:**
-- Write clean, efficient, and scalable code
-- Focus on user-centric design and functionality
-- Collaborate and learn from the developer community
+My approach to development centers around user-centric design, writing efficient code, and continuous learning. I enjoy collaborating with other developers, sharing knowledge, and helping others grow in their coding journey.
 
-When I'm not coding, you'll find me exploring new tech trends, brainstorming project ideas, or connecting with fellow developers!
+When I'm not coding, you'll find me exploring the latest tech trends, brainstorming new project ideas, or connecting with fellow developers to exchange ideas and experiences.
 
 </td>
-<td width="50%">
-  <img src="about-me.gif" alt="Coding Animation" width="100%"/>
+<td width="45%" align="center">
+  <img src="about-me.gif" alt="Coding" style="border: 3px solid #0077B5; border-radius: 10px; padding: 5px; background-color: #0077B5;" width="90%"/>
 </td>
 </tr>
 </table>
