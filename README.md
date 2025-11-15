@@ -1,18 +1,23 @@
+//header
 <div align="center">
   <img src="live.gif" alt="Header" width="100%"/>
 </div>
+
+//links
 <div align="center">
   <img src="header.gif" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.priyanshu.tech/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" height="35" width="35"/>
   </a>
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/priyanshusamal" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="35" width="35"/>
   </a>
-  <a href="https://x.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/PriyanshuS92042" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" height="35" width="35"/>
   </a>
 </div>
