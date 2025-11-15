@@ -44,7 +44,7 @@ When I'm not coding, you'll find me exploring the latest tech trends, brainstorm
 
 </td>
 <td width="45%" align="center">
-  <img src="about-me.gif" alt="Coding" style="border: 3px solid #0077B5; border-radius: 10px; padding: 5px; background-color: #0077B5;" width="90%"/>
+  <img src="adhd.gif" alt="Coding" style="border: 3px solid #0077B5; border-radius: 10px; padding: 5px; background-color: #0077B5;" width="90%"/>
 </td>
 </tr>
 </table>
