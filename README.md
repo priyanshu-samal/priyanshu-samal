@@ -43,7 +43,7 @@ When I'm not coding, you'll find me exploring the latest tech trends, brainstorm
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,c,rust,go,react,nextjs,nodejs,express,mongodb,postgres,docker,git,aws,firebase,tailwind,supabase,kubernetes,solidity,tensorflow,pytorch,vercel,vite,prisma,graphql,redis,nginx,sass,sdl,raylib" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,c,rust,go,react,nextjs,nodejs,express,mongodb,postgres,docker,git,aws,firebase,tailwind,supabase,kubernetes,genai,vercel,vite,prisma,graphql,redis,nginx,sass,sdl,raylib" />
 </div>
 
 <br/>
