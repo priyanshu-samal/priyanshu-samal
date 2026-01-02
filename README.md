@@ -24,30 +24,6 @@
 
 <br/>
 
-<h2 align="center">📎 About Me</h2>
-
-I'm **Priyanshu**, a passionate Software Developer who loves building things and sharing them with the world.
-
-I specialize in creating full-stack applications that solve real problems. My focus is on delivering engaging user experiences using modern technologies while maintaining clean and scalable code.
-
-What drives me is the ability to turn ideas into reality through code. I'm constantly exploring cutting-edge technologies and challenging myself with new projects. I believe in the power of the developer community and actively contribute to open-source projects.
-
-My approach to development centers around user-centric design, writing efficient code, and continuous learning. I enjoy collaborating with other developers, sharing knowledge, and helping others grow in their coding journey.
-
-When I'm not coding, you'll find me exploring the latest tech trends, brainstorming new project ideas, or connecting with fellow developers to exchange ideas and experiences.
-
-
-<br/>
-<br/>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,c,rust,go,react,nextjs,nodejs,express,mongodb,postgres,docker,git,aws,firebase,tailwind,supabase,kubernetes,genai,vercel,vite,prisma,graphql,redis,nginx,sass,sdl,raylib" />
-</div>
-
-<br/>
-
 <h2 align="center">🪼 Beyond Code</h2>
 
 <div style="display: flex; align-items: center; gap: 20px;">
