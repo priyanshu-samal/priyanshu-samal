@@ -35,7 +35,7 @@ I write posts about tech, share insights from my projects, and help fellow devel
 
 I also write blogs, share tips, and document my learning process. Building an audience and helping others on their coding journey is something I'm truly passionate about.
 
-Want to see what I'm up to? Check out my thoughts, projects, and daily updates on [**X**](https://x.com/PriyanshuS92042) - where I share the real, unfiltered journey of building cool stuff!
+Want to see what I'm up to? Check out my thoughts, projects, and daily updates on [**X**](https://x.com/PriyanshuS92042) [**M**]([https://x.com/PriyanshuS92042](https://medium.com/@samalpriyanshu966))- where I share the real, unfiltered journey of building cool stuff!
 
   </div>
 </div>
