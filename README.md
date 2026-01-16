@@ -29,11 +29,6 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     
-When I'm not coding, I'm building in public and sharing my journey with the developer community.
-
-I write posts about tech, share insights from my projects, and help fellow developers grow. I love connecting with clients, understanding their challenges, and building solutions that make a real impact.
-
-I also write blogs, share tips, and document my learning process. Building an audience and helping others on their coding journey is something I'm truly passionate about.
 
 Want to see what I'm up to? Check out my thoughts, projects, and daily updates on [**X**](https://x.com/PriyanshuS92042) - where I share the real, unfiltered journey of building cool stuff!
 
