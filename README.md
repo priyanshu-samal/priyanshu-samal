@@ -1,30 +1,62 @@
 <div align="center">
-  <img src="japan.gif" alt="Header" width="100%"/>
-</div>
-
-<div align="center">
-  <a href="https://www.priyanshu.tech/">
-    <img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="Portfolio" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/priyanshusamal-/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/PriyanshuS92042">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="X" height="40" width="40"/>
-  </a>
+  <img src="key.gif" alt="Header" width="100%"/>
 </div>
 
 <br/>
 
-<h2 align="center">🪼 Beyond Code</h2>
+<div align="center">
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
-    
+# Priyanshu Samal
 
-Want to see what I'm up to? Check out my thoughts, projects, and daily updates on [**X**](https://x.com/PriyanshuS92042) - where I share the real, unfiltered journey of building cool stuff!
+### Software Engineer · AI Systems · Low-Level Engineering · Security
 
-  </div>
+I build AI-powered software and backend systems while going deeper into
+Linux, networking, C, operating systems, and cybersecurity.
+
+<br/>
+
+<a href="https://www.priyanshu.tech/">
+  <img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="Website" height="32" width="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/priyanshusamal-/">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="32" width="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/PriyanshuS92042">
+  <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="X" height="32" width="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:samalpriyanshu966@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="32" width="32"/>
+</a>
+
 </div>
+
+---
+
+## About
+
+I'm interested in understanding software across the stack — from AI
+applications and backend infrastructure down to the operating system,
+network, and machine underneath them.
+
+I learn primarily by building things, breaking them, and understanding
+what the abstraction is hiding.
+
+---
+
+## Current Direction
+
+```text
+AI Engineering
+      ↓
+Backend & Distributed Systems
+      ↓
+Networking
+      ↓
+Linux & Operating Systems
+      ↓
+C / Low-Level Programming
+      ↓
+Cybersecurity
