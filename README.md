@@ -1,25 +1,23 @@
 <div align="center">
-  <img src="key.gif" alt="Header" width="100%"/>
-</div>
+
+<img src="key.gif" width="100%" alt="Header"/>
 
 <br/>
 
-<div align="center">
-
-<a href="https://www.priyanshu.tech/">
-  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://www.priyanshu.tech">
+<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/priyanshusamal-/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://x.com/PriyanshuS92042">
-  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:samalpriyanshu966@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -28,195 +26,340 @@
 
 ---
 
-<h2 align="center">✦ About</h2>
+<h2 align="center">◈ WHO I AM</h2>
 
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="top">
 
 I build software for the web, backend systems, and AI-powered applications.
 
 <br/>
 
-My day-to-day engineering is mostly around
+My professional work is mainly around:
 
-<b>JavaScript · TypeScript · React · Next.js · Node.js · APIs · Databases</b>
+<b>JavaScript · TypeScript · React · Next.js · Node.js · APIs · Databases · AI</b>
 
 <br/><br/>
 
-Outside of that, I spend my free time going deeper into the things
-underneath the software I build.
+Outside of my day-to-day development, I like going deeper into the
+technology underneath the software I build.
 
-</div>
+<br/><br/>
+
+<b>Web → Backend → AI → Linux → Networking → Systems → Security</b>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python" width="230"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,linux,c" width="190"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">◈ WHAT I DO</h2>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>⚡ AI & DEVELOPMENT</h3>
+
+Building real software around modern AI systems.
+
+<br/><br/>
+
+• LLM applications<br/>
+• AI workflows<br/>
+• RAG<br/>
+• AI agents<br/>
+• Backend systems<br/>
+• Web applications
+
+<br/><br/>
+
+<b>JavaScript · TypeScript · React · Next.js · Node.js</b>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>◉ SYSTEMS</h3>
+
+A personal rabbit hole I'm actively exploring.
+
+<br/><br/>
+
+• C<br/>
+• Linux<br/>
+• TCP/IP<br/>
+• Socket programming<br/>
+• Processes & memory<br/>
+• Concurrency<br/>
+• Operating systems
+
+<br/><br/>
+
+<b>C · Linux · Networking</b>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>⌁ SECURITY</h3>
+
+Still early in the journey — learning the fundamentals.
+
+<br/><br/>
+
+• Network analysis<br/>
+• Linux security<br/>
+• Reconnaissance<br/>
+• Traffic analysis<br/>
+• CTFs<br/>
+• Vulnerability research
+
+<br/><br/>
+
+<b>Learning · Experimenting · Breaking things</b>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">◈ CURRENTLY BUILDING</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>▸ TCP / NETWORKING IN C</h3>
+
+Learning how networking actually behaves by building servers directly
+with C and Linux.
+
+<br/><br/>
+
+TCP connections · sockets · blocking I/O · partial send/recv ·
+buffers · connection handling · errors
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,linux" width="75"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>▸ REDIS — FROM SCRATCH</h3>
+
+Building a small Redis-inspired in-memory datastore in C.
+
+<br/><br/>
+
+The goal is understanding the engineering behind:
 
 <br/>
 
+Data structures · memory · networking · commands · concurrency
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,linux" width="75"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>▸ LINUX / SYSTEMS</h3>
+
+Small experiments to understand what happens below normal
+application-level development.
+
+<br/><br/>
+
+Processes · files · system calls · memory · Linux internals ·
+shell · networking
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,linux" width="75"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>▸ SECURITY</h3>
+
+Currently learning cybersecurity from the fundamentals.
+
+<br/><br/>
+
+Linux · networking · Nmap · Wireshark · reconnaissance ·
+protocol analysis · CTFs
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">◈ MY TECHNICAL WORLD</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,c,postgres,docker,linux,git,neovim" />
+
+<br/><br/>
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center">
 
-### What I know
-
-I work primarily across web, backend, and AI development.
-
-```text
-Frontend
-React · Next.js · TypeScript
-
-Backend
+<b>DEVELOPMENT</b><br/>
+JavaScript · TypeScript · React · Next.js<br/>
 Node.js · APIs · PostgreSQL · Docker
 
-AI
-LLM applications · RAG · AI workflows
+</td>
+
+<td align="center">
+
+<b>AI</b><br/>
+LLMs · RAG · AI Agents<br/>
+AI Workflows · AI Applications
 
 </td>
 
-<td width="45%" valign="top">
+<td align="center">
 
-What I'm exploring
-These are areas I'm learning out of curiosity.
-C
-Linux
-Networking
-Operating Systems
-Concurrency
-Cybersecurity
+<b>SYSTEMS</b><br/>
+C · Linux · TCP/IP<br/>
+Sockets · Concurrency
 
 </td>
 </tr>
 </table>
 
-<h2 align="center">◈ Currently Building</h2>
-
-<div align="center">
-
-C / Networking
-Learning networking by building servers and experimenting
-with TCP, sockets, connections, buffers, and I/O directly in C.
-TCP Server · Sockets · Linux
-
-Redis — From Scratch
-Building a small Redis-like in-memory datastore in C
-to understand data structures, memory, networking, and concurrency.
-C · Data Structures · Networking
-
-Linux / Systems
-Small experiments around Linux, processes, memory, files,
-system calls, and how software interacts with the OS.
-C · Linux · Systems
-
-Security
-Currently learning the fundamentals through Linux,
-networking, reconnaissance, traffic analysis, and CTF-style labs.
-Beginner · Learning
 </div>
 
-<h2 align="center">◈ Engineering Interests</h2>
+---
+
+<h2 align="center">◈ GOING DEEPER</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 
-AI
-LLMs
-RAG
-Agents
-AI Applications
+<b>01</b><br/>
+Web Development
+
 </td>
+<td align="center">→</td>
+<td align="center">
 
-<td align="center" width="25%">
+<b>02</b><br/>
+Backend & AI
 
-Backend
-APIs
-Databases
-Distributed Systems
-Infrastructure
 </td>
+<td align="center">→</td>
+<td align="center">
 
-<td align="center" width="25%">
-
-Systems
-C
+<b>03</b><br/>
 Linux
-Networking
-Operating Systems
+
 </td>
+<td align="center">→</td>
+<td align="center">
 
-<td align="center" width="25%">
-
-Security
-Linux Security
+<b>04</b><br/>
 Networking
-CTFs
-Vulnerability Research
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+<b>05</b><br/>
+Systems
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+<b>06</b><br/>
+Security
+
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<h2 align="center">◈ Tools I Work With</h2>
+I'm not trying to claim expertise in all of these areas.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,javascript,typescript,react,nextjs,nodejs,python,postgres,docker,linux,git,neovim" />
+I'm simply interested in understanding more of the stack.
 
 </div>
 
+---
+
+<h2 align="center">◈ BEYOND CODE</h2>
 
 <div align="center">
 
-C · JavaScript · TypeScript · Python
-React · Next.js · Node.js · PostgreSQL
-Linux · Docker · Git · Neovim
-</div>
+<img src="https://img.shields.io/badge/Anime-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Manga-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gaming-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cars-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Motorcycles-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Travel-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Guitar-111111?style=flat-square"/>
 
-<h2 align="center">◈ Going Deeper</h2>
+<br/><br/>
 
-<div align="center">
-
-Web Development
-      ↓
-Backend & AI
-      ↓
-Linux
-      ↓
-Networking
-      ↓
-Systems Programming
-      ↓
-Security
+A few things I enjoy when I'm not writing code.
 
 </div>
 
-<p align="center">
-I'm not trying to master everything at once.
-I like building things and gradually moving closer to the machine.
-</p>
+---
 
-<h2 align="center">◈ Beyond Code</h2>
+<br/>
 
 <div align="center">
 
-Anime · Manga · Gaming · Cars · Motorcycles · Travel · Guitar
+<h3>Build things. Break things. Understand them.</h3>
 
+<br/>
 
-
-A lot of what I do outside my main engineering work
-eventually turns into another thing I want to understand.
-</div>
-
-
-<div align="center">
-
-Build first. Understand deeper.
-
-<a href="https://www.priyanshu.tech/">Website</a>
-  ·  
+<a href="https://www.priyanshu.tech">Website</a>
+&nbsp; • &nbsp;
 <a href="https://www.linkedin.com/in/priyanshusamal-/">LinkedIn</a>
-  ·  
+&nbsp; • &nbsp;
 <a href="https://x.com/PriyanshuS92042">X</a>
-  ·  
+&nbsp; • &nbsp;
 <a href="mailto:samalpriyanshu966@gmail.com">Email</a>
+
 </div>
-```
