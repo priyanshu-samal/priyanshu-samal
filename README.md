@@ -5,19 +5,26 @@
 <br/>
 
 <a href="https://www.priyanshu.tech">
-<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.icons8.com/fluency/32/laptop-coding.png" width="24"/>
+  Website
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/priyanshusamal-/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.icons8.com/color/32/linkedin.png" width="24"/>
+  LinkedIn
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://x.com/PriyanshuS92042">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.icons8.com/color/32/twitterx--v1.png" width="24"/>
+  X
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:samalpriyanshu966@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.icons8.com/color/32/gmail-new.png" width="24"/>
+  Email
 </a>
 
 </div>
