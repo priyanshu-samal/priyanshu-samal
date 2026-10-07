@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="key.gif" width="100%" alt="Header"/>
+<img src="s.gif" width="100%" alt="Header"/>
 
 <br/>
 
@@ -140,5 +140,6 @@ Still early in the journey — learning the fundamentals.
 </table>
 
 ---
+<img src="b.gif" width="100%" alt="Header"/>
 
 
