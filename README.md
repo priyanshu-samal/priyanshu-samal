@@ -4,29 +4,24 @@
 
 <br/>
 
-<a href="https://www.priyanshu.tech">
-  <img src="https://img.icons8.com/fluency/32/laptop-coding.png" width="24"/>
-  Website
+<a href="https://www.priyanshu.tech/">
+  <img src="https://img.icons8.com/fluency/48/laptop-coding.png" width="32" height="32" alt="Website"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/priyanshusamal-/">
-  <img src="https://img.icons8.com/color/32/linkedin.png" width="24"/>
-  LinkedIn
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/PriyanshuS92042">
-  <img src="https://img.icons8.com/color/32/twitterx--v1.png" width="24"/>
-  X
+  <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="32" height="32" alt="X"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:samalpriyanshu966@gmail.com">
-  <img src="https://img.icons8.com/color/32/gmail-new.png" width="24"/>
-  Email
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32" alt="Email"/>
 </a>
-
 </div>
 
 <br/>
