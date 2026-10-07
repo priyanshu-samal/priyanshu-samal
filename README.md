@@ -140,6 +140,6 @@ Still early in the journey — learning the fundamentals.
 </table>
 
 ---
-<img src="b.gif" width="100%" alt="Header"/>
+<img src="b.jpg" width="100%" alt="Header"/>
 
 
